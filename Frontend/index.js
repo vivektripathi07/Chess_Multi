@@ -1,2 +1,2 @@
-var x = 7;
-console.log(x);
+let name;
+console.log(name);
